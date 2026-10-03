@@ -1,5 +1,5 @@
 # **WELCOME!**
-### I'm a software developer studying at the university [FATEC Dr. Thomaz Novelino](https://site.fatecfranca.edu.br/)
+### I'm a software developer graduated at the university [FATEC Dr. Thomaz Novelino](https://site.fatecfranca.edu.br/)
 
 <a href="https://github.com/AelMartins/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AelMartins&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true" />
